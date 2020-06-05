@@ -1,0 +1,2 @@
+# MassShootings_GunPermits
+These scripts are used to perform regression analysis on a Database created from a collection of all gun permits issued in the United States and a list of all mass shootings that occurred in the US since the 70's. I performed regression analysis to predictions of the likelihood of a mass shooting occurring in a given month given the number of gun permits sold that month for each type of gun.
